@@ -28,7 +28,6 @@ Para executar este projeto, você só precisa de ter o Python 3 instalado no seu
 
 Abra o seu terminal ou Git Bash e clone este repositório para a sua máquina local:
 
-    ```bash
     git clone https://github.com/seu-usuario/nome-do-seu-repositorio.git
     cd nome-do-seu-repositorio
 
@@ -36,7 +35,6 @@ Abra o seu terminal ou Git Bash e clone este repositório para a sua máquina lo
 
 Não há dependências para instalar. Basta executar o script main.py (ou o nome que você deu ao seu ficheiro) com o seguinte comando:
 
-    ```bash
     python nome_do_seu_ficheiro.py
 
 3. Faça a Sua Jogada:
