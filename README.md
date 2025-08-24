@@ -1,4 +1,4 @@
-🐍 Jogo da Velha em Python (Jogador vs. Computador)
+# 🐍 Jogo da Velha em Python (Jogador vs. Computador)
 
 Bem-vindo ao clássico Jogo da Velha, implementado em Python! Este é um projeto de terminal simples, mas completo, onde você pode desafiar um oponente controlado pelo computador para uma partida rápida e divertida. O objetivo foi criar um jogo limpo, funcional e fácil de entender, utilizando os princípios da Programação Orientada a Objetos.
 
